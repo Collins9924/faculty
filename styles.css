@@ -1,0 +1,58 @@
+/* styles.css */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation styles */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #fff;
+    background-color: #555;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Add more specific styles for each page as needed */
+KsTU.jpg.webp34_0.jpegCOLLINS-AMOAH_052241360162computeredu.jpegcomsin.jpegcssdepartments.htmlfaculty.htmlhq720.jpegict.jpegindex.htmlKsTU-1-min.jpg.webpkstu-elearning-platform.jpegkstu.pngkstu1.jpegpayments.htmlregistration.htmls3.jpegstyles.csstimetables.html
